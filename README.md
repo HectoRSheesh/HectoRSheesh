@@ -1,3 +1,8 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HectoRSheesh/HectoRSheesh/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HectoRSheesh/HectoRSheesh/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 <h1>Hi 👋, I'm Ozan</h1>
 <p>A passionate Mobile developer from Türkiye</p>
 <h2>🚀 Languages and Tools I Use</h2>
